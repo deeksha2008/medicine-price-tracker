@@ -142,9 +142,9 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, setAppLoggedIn }) 
                   <span style={{fontWeight: '600'}}>Current Session Cart</span>
                   <span style={{color: 'var(--text-muted)'}}>{cartItems.length} items</span>
                 </div>
-                <div style={{display: 'flex', gap: '10px', overflowX: 'auto', paddingBottom: '10px'}}>
+                <div style={{display: 'flex', gap: '10px', flexWrap: 'wrap', paddingBottom: '10px'}}>
                   {cartItems.map((item, i) => (
-                    <div key={i} style={{background: 'var(--card-bg)', padding: '10px', borderRadius: '8px', minWidth: '120px', fontSize: '13px', flexShrink: 0}}>
+                    <div key={i} style={{background: 'var(--card-bg)', padding: '10px', borderRadius: '8px', minWidth: '120px', fontSize: '13px'}}>
                       <div style={{whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontWeight: '500'}}>{item.name}</div>
                       <div style={{color: 'var(--accent-teal)', marginTop: '5px'}}>₹{item.price}</div>
                     </div>
