@@ -8,14 +8,16 @@ function InsightsPage({ query, currentLowest }) {
   const [downloading, setDownloading] = useState(false);
 
   useEffect(() => {
-    // Generate 7-day prediction data
+    // Generate 7-day prediction data for all 4 platforms
     const data = [];
     const basePrice = currentLowest || 150;
     for (let i = 0; i < 7; i++) {
       data.push({
         name: `Day ${i + 1}`,
-        Predicted: (basePrice - (i * 0.8) + (Math.random() * 2)).toFixed(2),
-        MarketAvg: (basePrice + (Math.sin(i) * 5)).toFixed(2)
+        PharmEasy: (basePrice + (Math.random() * 5)).toFixed(2),
+        Netmeds: (basePrice - 2 + (Math.random() * 4)).toFixed(2),
+        Apollo: (basePrice + 3 + (Math.sin(i) * 3)).toFixed(2),
+        OneMG: (basePrice + 1 + (Math.cos(i) * 2)).toFixed(2)
       });
     }
     setGraphData(data);
@@ -81,8 +83,8 @@ function InsightsPage({ query, currentLowest }) {
 
       <div className="main-grid">
         <div className="insights-graph-section ml-card" style={{height: '500px'}}>
-          <h3>7-Day Price Prediction</h3>
-          <p style={{fontSize: '13px', color: 'var(--text-muted)', marginBottom: '20px'}}>AI-powered forecast based on historical supply chain volatility</p>
+          <h3>4-Platform Price Forecast</h3>
+          <p style={{fontSize: '13px', color: 'var(--text-muted)', marginBottom: '20px'}}>Predicted volatility across all integrated pharmacy platforms</p>
           <div style={{ width: '100%', height: '380px' }}>
             <ResponsiveContainer>
               <LineChart
@@ -97,8 +99,10 @@ function InsightsPage({ query, currentLowest }) {
                   itemStyle={{color: '#fff'}}
                 />
                 <Legend iconType="circle" wrapperStyle={{paddingTop: '20px'}}/>
-                <Line type="monotone" dataKey="Predicted" stroke="#14b8a6" strokeWidth={4} activeDot={{ r: 8 }} dot={{ r: 6, strokeWidth: 3 }} />
-                <Line type="monotone" dataKey="MarketAvg" stroke="rgba(148, 163, 184, 0.3)" strokeWidth={2} strokeDasharray="5 5" dot={false} />
+                <Line type="monotone" dataKey="PharmEasy" stroke="#14b8a6" strokeWidth={3} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="Netmeds" stroke="#3b82f6" strokeWidth={3} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="Apollo" stroke="#8b5cf6" strokeWidth={3} dot={{ r: 4 }} />
+                <Line type="monotone" dataKey="OneMG" stroke="#f59e0b" strokeWidth={3} dot={{ r: 4 }} />
               </LineChart>
             </ResponsiveContainer>
           </div>
