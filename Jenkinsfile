@@ -7,8 +7,8 @@ pipeline {
     
     environment {
         DOCKERHUB_CREDENTIALS = credentials('dockerhub-credentials')
-        FRONTEND_IMAGE = "rinkupareta/medicine-price-tracker-frontend"
-        BACKEND_IMAGE = "rinkupareta/medicine-price-tracker-backend"
+        FRONTEND_IMAGE = "deeksha2008/medicine-price-tracker-frontend"
+        BACKEND_IMAGE = "deeksha2008/medicine-price-tracker-backend"
     }
     
     stages {
