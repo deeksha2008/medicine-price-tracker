@@ -35,11 +35,11 @@ def test_generic_alternative():
     response = client.get("/api/ml/generic-alternative?medicine=crocin")
     assert response.status_code == 200
     data = response.json()
-    assert "alternative" in data
+    assert "generic_name" in data
 
 
 def test_stockout_risk():
     response = client.get("/api/ml/stockout-risk?medicine=paracetamol&platform=PharmEasy")
     assert response.status_code == 200
     data = response.json()
-    assert "stockout" in data
+    assert "risk_level" in data
