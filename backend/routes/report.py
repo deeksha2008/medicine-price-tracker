@@ -26,7 +26,7 @@ async def generate_report(medicine: str, price: float, platform: str, risk: str)
     c.drawString(50, height - 120, f"Medicine: {medicine}")
     
     c.setFont("Helvetica", 14)
-    c.drawString(50, height - 150, f"Current Best Price: ₹{price}")
+    c.drawString(50, height - 150, f"Current Best Price: INR {price}")
     c.drawString(50, height - 175, f"Platform: {platform}")
     
     # ML Analysis
