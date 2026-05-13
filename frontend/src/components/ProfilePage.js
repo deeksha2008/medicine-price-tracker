@@ -188,21 +188,34 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, isDarkMode, setIsD
                 <div style={{width: '16px', height: '16px', background: '#fff', borderRadius: '50%', position: 'absolute', right: '2px', top: '2px'}}></div>
               </div>
             </div>
-            <div className="setting-row" style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '15px', background: 'rgba(2, 6, 23, 0.3)', borderRadius: '8px'}}>
+            <div 
+              className="setting-row" 
+              onClick={() => setIsDarkMode(!isDarkMode)}
+              style={{
+                display: 'flex', 
+                justifyContent: 'space-between', 
+                alignItems: 'center', 
+                padding: '15px', 
+                background: 'rgba(2, 6, 23, 0.3)', 
+                borderRadius: '8px',
+                cursor: 'pointer',
+                transition: 'all 0.2s'
+              }}
+              onMouseOver={(e) => e.currentTarget.style.background = 'rgba(20, 184, 166, 0.1)'}
+              onMouseOut={(e) => e.currentTarget.style.background = 'rgba(2, 6, 23, 0.3)'}
+            >
               <div>
                 <h4 style={{marginBottom: '4px'}}>Dark Mode</h4>
                 <p style={{fontSize: '12px', color: 'var(--text-muted)'}}>App appearance</p>
               </div>
               <div 
                 className="toggle" 
-                onClick={() => setIsDarkMode(!isDarkMode)}
                 style={{
                   width: '40px', 
                   height: '20px', 
                   background: isDarkMode ? 'var(--accent-teal)' : '#64748b', 
                   borderRadius: '10px', 
                   position: 'relative', 
-                  cursor: 'pointer',
                   transition: 'all 0.3s'
                 }}
               >
