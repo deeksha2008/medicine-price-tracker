@@ -1,0 +1,2401 @@
+medicine_name,generic_name,platform,day,price,is_stockout
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,1,15.25,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,2,15.16,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,3,15.23,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,4,15.33,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,5,15.97,1
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,6,15.83,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,7,15.56,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,8,15.96,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,9,15.97,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,10,15.43,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,11,15.8,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,12,16.29,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,13,16.74,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,14,16.33,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,15,16.34,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,16,16.63,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,17,16.52,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,18,16.71,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,19,16.9,1
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,20,16.68,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,21,17.35,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,22,16.83,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,23,16.9,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,24,17.46,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,25,17.72,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,26,17.65,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,27,17.67,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,28,17.71,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,29,17.76,0
+Crocin 500mg,Paracetamol IP 500mg,PharmEasy,30,18.32,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,1,14.44,1
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,2,14.34,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,3,14.36,1
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,4,14.82,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,5,15.04,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,6,15.12,1
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,7,14.71,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,8,14.96,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,9,15.01,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,10,15.2,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,11,15.58,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,12,15.84,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,13,15.65,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,14,15.47,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,15,15.74,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,16,16.3,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,17,15.97,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,18,15.96,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,19,16.09,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,20,16.35,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,21,16.12,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,22,16.31,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,23,16.81,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,24,16.74,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,25,16.78,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,26,17.13,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,27,16.75,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,28,16.96,0
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,29,17.23,1
+Crocin 500mg,Paracetamol IP 500mg,Netmeds,30,17.32,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,1,15.4,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,2,15.82,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,3,16.0,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,4,16.28,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,5,16.33,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,6,16.33,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,7,15.85,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,8,16.54,1
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,9,16.67,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,10,17.53,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,11,16.79,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,12,17.04,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,13,17.41,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,14,17.39,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,15,17.69,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,16,16.91,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,17,17.14,1
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,18,17.37,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,19,17.16,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,20,17.77,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,21,17.56,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,22,18.44,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,23,17.8,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,24,18.05,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,25,18.51,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,26,17.96,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,27,17.94,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,28,18.61,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,29,18.73,0
+Crocin 500mg,Paracetamol IP 500mg,Tata 1mg,30,19.0,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,1,15.56,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,2,15.59,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,3,15.39,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,4,15.77,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,5,15.89,1
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,6,15.68,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,7,16.57,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,8,16.24,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,9,15.9,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,10,16.54,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,11,16.69,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,12,16.63,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,13,16.52,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,14,16.47,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,15,16.78,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,16,17.0,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,17,17.0,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,18,17.54,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,19,17.39,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,20,17.04,1
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,21,17.07,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,22,17.65,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,23,17.53,1
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,24,17.92,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,25,17.94,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,26,17.88,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,27,17.74,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,28,17.64,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,29,18.27,0
+Crocin 500mg,Paracetamol IP 500mg,Apollo Pharmacy,30,17.92,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,1,29.57,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,2,30.29,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,3,30.33,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,4,29.71,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,5,31.15,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,6,31.23,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,7,31.01,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,8,31.11,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,9,31.21,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,10,33.31,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,11,31.67,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,12,31.59,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,13,30.84,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,14,31.26,1
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,15,32.89,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,16,30.48,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,17,31.42,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,18,32.45,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,19,31.47,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,20,32.41,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,21,32.13,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,22,31.81,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,23,31.08,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,24,32.51,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,25,32.02,1
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,26,32.53,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,27,33.0,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,28,33.32,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,29,32.62,0
+Dolo 650mg,Paracetamol IP 650mg,PharmEasy,30,32.61,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,1,27.88,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,2,29.22,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,3,30.01,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,4,29.49,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,5,29.72,1
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,6,28.7,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,7,29.45,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,8,29.74,1
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,9,27.55,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,10,28.92,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,11,30.53,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,12,28.88,1
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,13,30.62,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,14,29.08,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,15,29.44,1
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,16,30.36,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,17,30.24,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,18,30.08,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,19,31.3,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,20,29.79,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,21,30.51,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,22,31.04,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,23,30.96,1
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,24,30.55,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,25,30.66,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,26,31.58,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,27,31.71,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,28,31.48,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,29,30.93,0
+Dolo 650mg,Paracetamol IP 650mg,Netmeds,30,31.18,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,1,31.59,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,2,31.77,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,3,32.14,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,4,31.77,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,5,32.52,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,6,32.61,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,7,33.02,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,8,32.31,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,9,32.6,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,10,32.42,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,11,32.08,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,12,34.02,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,13,33.53,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,14,33.4,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,15,32.99,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,16,32.53,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,17,33.81,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,18,33.21,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,19,33.66,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,20,33.14,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,21,33.75,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,22,33.38,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,23,33.5,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,24,34.05,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,25,33.09,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,26,33.21,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,27,33.75,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,28,34.17,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,29,34.94,0
+Dolo 650mg,Paracetamol IP 650mg,Tata 1mg,30,34.4,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,1,30.69,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,2,30.62,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,3,31.1,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,4,30.49,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,5,31.03,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,6,31.45,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,7,31.44,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,8,31.41,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,9,31.52,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,10,31.9,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,11,33.02,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,12,31.33,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,13,33.24,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,14,31.51,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,15,30.8,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,16,31.88,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,17,32.51,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,18,33.55,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,19,31.95,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,20,32.9,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,21,31.89,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,22,33.92,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,23,33.62,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,24,32.71,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,25,32.05,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,26,34.03,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,27,33.23,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,28,34.16,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,29,33.5,0
+Dolo 650mg,Paracetamol IP 650mg,Apollo Pharmacy,30,33.63,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,1,39.74,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,2,40.7,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,3,40.4,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,4,40.81,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,5,39.27,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,6,41.62,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,7,41.94,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,8,40.89,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,9,42.55,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,10,42.4,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,11,41.62,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,12,42.29,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,13,42.15,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,14,39.99,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,15,41.28,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,16,42.17,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,17,43.0,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,18,40.7,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,19,40.54,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,20,41.96,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,21,40.45,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,22,42.13,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,23,42.59,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,24,41.65,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,25,42.45,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,26,43.36,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,27,42.28,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,28,42.17,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,29,42.81,0
+Combiflam,Ibuprofen + Paracetamol,PharmEasy,30,42.17,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,1,39.59,1
+Combiflam,Ibuprofen + Paracetamol,Netmeds,2,38.23,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,3,37.77,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,4,38.56,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,5,38.41,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,6,38.43,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,7,38.3,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,8,38.36,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,9,37.75,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,10,40.04,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,11,39.54,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,12,39.44,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,13,39.2,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,14,38.67,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,15,38.93,1
+Combiflam,Ibuprofen + Paracetamol,Netmeds,16,38.52,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,17,39.21,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,18,38.98,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,19,41.18,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,20,40.67,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,21,40.16,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,22,39.55,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,23,39.51,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,24,40.26,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,25,41.2,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,26,42.05,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,27,39.64,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,28,41.23,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,29,40.41,0
+Combiflam,Ibuprofen + Paracetamol,Netmeds,30,40.63,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,1,42.14,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,2,41.5,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,3,42.1,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,4,41.64,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,5,42.02,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,6,43.23,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,7,42.78,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,8,43.43,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,9,42.34,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,10,43.48,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,11,41.73,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,12,43.24,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,13,43.84,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,14,42.0,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,15,42.95,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,16,43.64,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,17,44.55,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,18,43.32,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,19,44.35,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,20,45.21,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,21,44.58,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,22,44.03,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,23,44.61,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,24,43.89,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,25,44.57,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,26,44.47,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,27,44.98,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,28,44.45,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,29,45.23,0
+Combiflam,Ibuprofen + Paracetamol,Tata 1mg,30,44.65,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,1,41.61,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,2,40.73,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,3,39.44,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,4,40.38,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,5,41.32,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,6,42.77,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,7,42.18,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,8,39.8,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,9,40.49,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,10,42.73,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,11,42.42,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,12,43.85,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,13,41.73,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,14,41.51,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,15,42.36,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,16,42.01,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,17,43.35,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,18,42.18,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,19,42.48,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,20,42.0,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,21,43.52,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,22,42.25,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,23,43.44,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,24,44.73,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,25,41.85,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,26,44.62,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,27,43.73,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,28,42.68,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,29,43.79,0
+Combiflam,Ibuprofen + Paracetamol,Apollo Pharmacy,30,44.39,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,1,9.94,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,2,10.29,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,3,10.62,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,4,10.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,5,10.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,6,10.57,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,7,10.71,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,8,11.02,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,9,10.87,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,10,10.91,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,11,10.9,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,12,10.87,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,13,11.04,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,14,11.14,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,15,11.45,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,16,11.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,17,11.16,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,18,11.79,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,19,12.27,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,20,12.23,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,21,12.05,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,22,11.98,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,23,12.81,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,24,12.41,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,25,12.54,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,26,12.57,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,27,12.69,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,28,12.69,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,29,12.85,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,PharmEasy,30,13.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,1,9.84,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,2,9.31,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,3,9.53,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,4,9.75,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,5,10.18,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,6,10.34,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,7,10.34,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,8,10.09,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,9,10.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,10,10.59,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,11,10.55,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,12,10.63,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,13,10.73,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,14,11.12,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,15,11.11,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,16,11.04,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,17,11.26,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,18,11.06,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,19,11.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,20,11.7,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,21,11.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,22,11.82,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,23,11.4,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,24,12.22,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,25,11.9,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,26,12.18,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,27,12.22,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,28,12.33,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,29,12.46,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Netmeds,30,12.18,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,1,10.64,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,2,10.66,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,3,10.69,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,4,10.74,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,5,11.04,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,6,10.89,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,7,11.42,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,8,11.4,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,9,11.45,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,10,11.71,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,11,11.21,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,12,11.43,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,13,11.91,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,14,11.75,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,15,11.87,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,16,11.8,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,17,12.0,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,18,12.52,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,19,12.5,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,20,12.54,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,21,12.48,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,22,12.73,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,23,13.04,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,24,12.75,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,25,12.99,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,26,13.47,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,27,13.35,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,28,13.18,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,29,13.53,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Tata 1mg,30,13.17,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,1,10.28,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,2,10.53,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,3,10.58,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,4,10.72,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,5,10.87,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,6,10.89,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,7,10.99,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,8,11.04,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,9,10.88,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,10,11.41,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,11,11.29,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,12,11.54,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,13,11.69,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,14,11.49,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,15,11.61,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,16,11.74,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,17,12.16,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,18,11.82,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,19,12.4,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,20,12.24,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,21,12.35,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,22,12.58,1
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,23,12.52,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,24,12.82,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,25,12.59,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,26,13.09,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,27,12.81,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,28,13.3,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,29,13.01,0
+Aspirin 75mg,Acetylsalicylic Acid 75mg,Apollo Pharmacy,30,13.14,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,1,44.2,1
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,2,44.51,1
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,3,45.27,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,4,45.61,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,5,46.39,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,6,45.41,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,7,44.69,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,8,46.14,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,9,46.05,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,10,46.44,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,11,45.53,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,12,45.72,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,13,45.73,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,14,47.47,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,15,47.78,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,16,46.09,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,17,46.2,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,18,47.37,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,19,48.29,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,20,48.62,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,21,46.55,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,22,46.85,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,23,47.56,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,24,47.7,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,25,47.34,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,26,46.88,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,27,47.67,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,28,49.42,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,29,47.43,0
+Metformin 500mg,Metformin HCl 500mg,PharmEasy,30,48.2,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,1,45.01,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,2,42.5,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,3,43.63,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,4,44.73,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,5,43.76,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,6,44.3,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,7,44.15,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,8,43.98,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,9,44.83,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,10,44.3,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,11,43.71,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,12,44.08,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,13,44.37,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,14,43.81,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,15,44.41,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,16,44.39,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,17,45.0,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,18,46.4,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,19,44.86,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,20,46.1,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,21,45.37,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,22,45.11,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,23,44.67,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,24,45.32,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,25,45.36,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,26,44.75,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,27,44.97,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,28,45.87,1
+Metformin 500mg,Metformin HCl 500mg,Netmeds,29,46.99,0
+Metformin 500mg,Metformin HCl 500mg,Netmeds,30,45.69,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,1,45.98,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,2,45.37,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,3,46.58,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,4,48.32,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,5,46.54,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,6,48.67,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,7,48.56,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,8,47.96,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,9,46.71,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,10,47.6,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,11,48.12,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,12,48.78,1
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,13,47.37,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,14,50.01,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,15,49.07,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,16,49.28,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,17,49.56,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,18,50.31,1
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,19,49.34,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,20,49.92,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,21,48.71,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,22,51.15,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,23,49.67,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,24,49.01,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,25,49.33,1
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,26,48.06,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,27,49.52,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,28,47.76,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,29,50.89,0
+Metformin 500mg,Metformin HCl 500mg,Tata 1mg,30,50.65,1
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,1,45.11,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,2,46.06,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,3,46.2,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,4,45.24,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,5,46.2,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,6,46.52,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,7,46.37,1
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,8,46.07,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,9,45.88,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,10,46.64,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,11,46.48,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,12,47.63,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,13,48.48,1
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,14,48.15,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,15,47.45,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,16,46.91,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,17,48.42,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,18,48.28,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,19,49.01,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,20,48.08,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,21,49.59,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,22,48.28,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,23,47.6,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,24,47.86,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,25,48.88,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,26,47.97,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,27,50.19,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,28,49.1,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,29,48.83,0
+Metformin 500mg,Metformin HCl 500mg,Apollo Pharmacy,30,49.01,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,1,59.79,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,2,58.2,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,3,59.72,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,4,62.29,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,5,60.77,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,6,61.86,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,7,61.99,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,8,60.75,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,9,61.68,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,10,59.11,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,11,62.87,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,12,62.86,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,13,61.89,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,14,61.71,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,15,61.47,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,16,63.01,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,17,62.63,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,18,58.38,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,19,61.47,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,20,60.66,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,21,60.55,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,22,63.59,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,23,62.24,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,24,62.97,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,25,62.59,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,26,61.06,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,27,60.83,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,28,62.29,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,29,62.48,1
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,PharmEasy,30,62.58,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,1,56.73,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,2,59.57,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,3,58.47,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,4,57.67,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,5,57.42,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,6,57.56,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,7,58.54,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,8,57.71,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,9,58.94,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,10,58.39,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,11,60.48,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,12,58.04,1
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,13,59.56,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,14,57.21,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,15,57.79,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,16,60.78,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,17,59.69,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,18,59.37,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,19,61.64,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,20,58.93,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,21,60.36,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,22,60.55,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,23,61.16,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,24,58.09,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,25,59.43,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,26,59.97,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,27,61.54,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,28,60.32,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,29,61.26,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Netmeds,30,58.6,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,1,62.73,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,2,64.93,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,3,63.08,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,4,63.42,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,5,65.51,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,6,62.53,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,7,62.89,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,8,62.13,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,9,65.97,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,10,65.27,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,11,65.34,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,12,63.79,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,13,62.55,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,14,62.33,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,15,66.24,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,16,65.31,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,17,65.66,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,18,65.15,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,19,63.95,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,20,64.65,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,21,63.85,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,22,63.81,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,23,66.46,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,24,63.42,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,25,64.26,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,26,65.32,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,27,65.83,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,28,64.12,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,29,63.89,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Tata 1mg,30,66.55,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,1,61.57,1
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,2,63.07,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,3,61.65,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,4,62.26,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,5,60.84,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,6,60.99,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,7,60.38,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,8,61.15,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,9,61.74,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,10,63.73,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,11,61.28,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,12,65.03,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,13,63.28,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,14,63.11,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,15,62.75,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,16,62.62,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,17,62.22,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,18,61.32,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,19,62.12,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,20,65.21,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,21,64.0,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,22,65.39,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,23,62.79,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,24,62.36,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,25,63.74,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,26,62.86,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,27,64.19,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,28,62.1,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,29,61.66,0
+Pantoprazole 40mg,Pantoprazole Sodium 40mg,Apollo Pharmacy,30,64.66,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,1,82.78,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,2,80.87,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,3,81.19,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,4,80.52,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,5,80.77,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,6,78.34,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,7,79.52,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,8,82.78,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,9,79.15,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,10,80.49,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,11,83.04,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,12,81.43,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,13,81.61,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,14,80.91,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,15,82.63,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,16,83.13,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,17,80.44,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,18,79.67,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,19,78.96,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,20,82.81,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,21,82.72,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,22,86.19,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,23,82.43,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,24,82.24,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,25,82.93,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,26,83.11,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,27,82.42,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,28,81.59,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,29,82.95,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,PharmEasy,30,82.99,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,1,76.06,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,2,77.44,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,3,76.32,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,4,74.41,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,5,75.57,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,6,76.32,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,7,76.79,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,8,77.61,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,9,77.0,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,10,74.0,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,11,75.26,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,12,78.11,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,13,76.98,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,14,79.67,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,15,77.73,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,16,77.09,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,17,76.77,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,18,77.34,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,19,78.14,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,20,78.0,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,21,79.54,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,22,75.94,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,23,76.22,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,24,78.06,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,25,79.32,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,26,79.75,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,27,77.82,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,28,74.86,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,29,78.07,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Netmeds,30,79.6,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,1,84.07,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,2,85.17,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,3,86.31,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,4,84.13,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,5,83.76,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,6,83.11,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,7,82.4,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,8,82.09,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,9,83.78,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,10,86.75,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,11,86.24,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,12,84.38,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,13,88.92,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,14,84.38,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,15,87.69,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,16,88.22,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,17,86.47,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,18,84.66,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,19,85.29,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,20,86.31,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,21,83.84,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,22,84.57,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,23,84.54,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,24,87.3,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,25,88.49,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,26,87.81,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,27,88.37,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,28,85.53,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,29,86.36,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Tata 1mg,30,86.58,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,1,82.44,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,2,85.33,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,3,80.85,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,4,83.51,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,5,84.59,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,6,83.03,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,7,81.7,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,8,81.03,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,9,80.79,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,10,79.39,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,11,82.34,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,12,82.35,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,13,84.3,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,14,82.05,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,15,82.83,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,16,83.66,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,17,84.1,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,18,84.6,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,19,83.8,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,20,81.48,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,21,84.35,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,22,82.74,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,23,85.92,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,24,84.03,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,25,84.49,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,26,88.45,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,27,85.53,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,28,85.02,0
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,29,84.27,1
+Atorvastatin 10mg,Atorvastatin Calcium 10mg,Apollo Pharmacy,30,82.6,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,1,99.68,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,2,98.5,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,3,103.64,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,4,101.19,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,5,102.89,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,6,99.38,1
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,7,99.13,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,8,102.1,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,9,99.13,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,10,100.13,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,11,104.55,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,12,100.4,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,13,98.46,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,14,97.88,1
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,15,98.45,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,16,104.13,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,17,100.6,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,18,106.92,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,19,104.98,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,20,106.01,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,21,104.15,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,22,103.39,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,23,100.66,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,24,102.39,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,25,103.89,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,26,104.51,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,27,100.42,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,28,102.41,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,29,102.73,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,PharmEasy,30,102.76,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,1,93.15,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,2,98.72,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,3,94.87,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,4,93.58,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,5,99.08,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,6,98.53,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,7,95.97,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,8,92.44,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,9,95.01,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,10,92.97,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,11,97.08,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,12,95.19,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,13,96.25,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,14,99.77,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,15,95.36,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,16,97.49,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,17,98.16,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,18,99.13,1
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,19,96.71,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,20,96.61,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,21,96.67,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,22,97.9,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,23,100.14,1
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,24,96.88,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,25,92.89,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,26,99.28,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,27,97.83,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,28,98.78,1
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,29,94.93,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Netmeds,30,96.99,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,1,106.77,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,2,102.57,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,3,106.28,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,4,105.33,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,5,103.96,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,6,103.9,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,7,103.57,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,8,105.93,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,9,106.27,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,10,105.23,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,11,103.85,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,12,100.07,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,13,107.22,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,14,108.3,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,15,107.8,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,16,110.92,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,17,106.32,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,18,109.69,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,19,105.54,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,20,105.32,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,21,107.36,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,22,110.61,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,23,106.69,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,24,104.12,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,25,109.35,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,26,107.44,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,27,108.33,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,28,106.22,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,29,108.14,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Tata 1mg,30,104.98,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,1,105.92,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,2,104.4,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,3,102.44,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,4,104.14,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,5,101.19,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,6,104.7,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,7,102.02,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,8,101.98,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,9,100.95,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,10,103.86,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,11,103.15,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,12,106.08,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,13,101.13,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,14,104.27,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,15,105.92,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,16,108.88,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,17,104.1,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,18,103.08,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,19,104.24,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,20,106.69,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,21,106.79,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,22,103.96,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,23,106.95,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,24,104.35,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,25,106.21,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,26,105.72,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,27,103.9,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,28,102.92,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,29,107.38,0
+Amoxicillin 500mg,Amoxicillin Trihydrate 500mg,Apollo Pharmacy,30,108.1,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,1,121.07,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,2,120.14,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,3,117.47,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,4,123.25,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,5,121.18,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,6,119.98,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,7,122.79,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,8,117.57,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,9,118.5,1
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,10,119.37,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,11,122.33,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,12,121.63,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,13,122.82,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,14,124.06,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,15,123.11,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,16,126.16,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,17,124.36,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,18,121.51,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,19,120.62,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,20,121.78,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,21,123.8,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,22,121.15,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,23,124.07,1
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,24,123.88,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,25,120.25,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,26,125.21,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,27,123.58,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,28,127.21,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,29,122.85,0
+Azithromycin 500mg,Azithromycin 500mg,PharmEasy,30,122.27,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,1,111.7,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,2,111.77,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,3,116.47,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,4,118.3,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,5,114.26,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,6,114.22,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,7,114.86,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,8,117.45,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,9,112.79,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,10,115.54,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,11,117.32,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,12,116.34,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,13,109.14,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,14,116.95,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,15,116.67,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,16,118.73,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,17,119.38,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,18,118.8,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,19,116.07,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,20,112.35,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,21,121.05,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,22,115.8,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,23,116.4,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,24,120.26,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,25,114.81,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,26,113.59,1
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,27,115.72,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,28,115.22,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,29,113.69,0
+Azithromycin 500mg,Azithromycin 500mg,Netmeds,30,116.81,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,1,126.31,1
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,2,122.53,1
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,3,125.52,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,4,124.5,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,5,121.77,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,6,126.89,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,7,127.24,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,8,124.91,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,9,129.61,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,10,127.05,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,11,125.31,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,12,123.39,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,13,127.97,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,14,128.68,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,15,126.28,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,16,127.97,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,17,131.76,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,18,130.06,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,19,122.48,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,20,126.19,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,21,127.77,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,22,128.39,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,23,128.73,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,24,129.51,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,25,128.25,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,26,128.65,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,27,131.1,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,28,129.52,0
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,29,126.02,1
+Azithromycin 500mg,Azithromycin 500mg,Tata 1mg,30,129.27,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,1,122.19,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,2,117.99,1
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,3,123.09,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,4,120.28,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,5,125.27,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,6,124.05,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,7,120.18,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,8,125.45,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,9,126.71,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,10,122.79,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,11,123.17,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,12,125.58,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,13,126.89,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,14,119.73,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,15,121.23,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,16,122.99,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,17,123.35,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,18,126.11,1
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,19,127.51,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,20,127.82,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,21,120.38,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,22,122.63,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,23,121.68,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,24,123.35,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,25,122.92,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,26,126.04,1
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,27,126.44,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,28,125.22,1
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,29,125.08,0
+Azithromycin 500mg,Azithromycin 500mg,Apollo Pharmacy,30,124.49,1
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,1,49.84,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,2,51.8,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,3,51.0,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,4,50.07,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,5,50.39,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,6,51.05,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,7,49.51,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,8,50.94,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,9,51.54,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,10,51.5,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,11,50.31,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,12,50.58,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,13,49.32,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,14,52.15,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,15,53.57,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,16,50.68,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,17,52.8,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,18,53.76,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,19,51.43,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,20,51.89,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,21,52.35,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,22,52.67,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,23,52.61,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,24,52.01,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,25,53.12,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,26,52.23,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,27,53.08,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,28,52.77,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,29,51.13,0
+Omeprazole 20mg,Omeprazole 20mg,PharmEasy,30,54.26,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,1,47.03,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,2,49.01,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,3,48.8,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,4,48.11,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,5,48.5,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,6,48.71,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,7,48.01,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,8,48.16,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,9,48.96,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,10,45.71,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,11,48.58,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,12,48.33,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,13,48.07,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,14,49.29,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,15,48.4,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,16,49.92,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,17,50.11,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,18,49.79,1
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,19,50.09,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,20,49.99,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,21,50.36,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,22,50.42,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,23,50.13,1
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,24,50.92,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,25,49.85,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,26,49.39,1
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,27,49.45,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,28,50.01,0
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,29,48.6,1
+Omeprazole 20mg,Omeprazole 20mg,Netmeds,30,50.7,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,1,53.29,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,2,53.68,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,3,51.11,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,4,52.1,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,5,53.87,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,6,52.9,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,7,53.87,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,8,52.0,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,9,54.83,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,10,52.13,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,11,50.43,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,12,53.89,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,13,54.02,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,14,53.38,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,15,54.5,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,16,54.63,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,17,54.61,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,18,53.77,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,19,53.67,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,20,54.07,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,21,53.74,1
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,22,55.88,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,23,54.46,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,24,55.06,1
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,25,55.87,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,26,54.19,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,27,53.79,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,28,54.44,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,29,55.68,0
+Omeprazole 20mg,Omeprazole 20mg,Tata 1mg,30,55.7,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,1,51.5,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,2,51.09,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,3,48.81,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,4,51.26,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,5,52.48,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,6,52.86,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,7,51.79,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,8,52.0,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,9,52.53,1
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,10,53.23,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,11,52.1,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,12,52.81,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,13,51.74,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,14,51.15,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,15,52.04,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,16,54.08,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,17,53.33,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,18,51.64,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,19,53.58,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,20,51.91,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,21,53.48,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,22,52.28,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,23,52.09,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,24,55.08,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,25,53.16,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,26,54.22,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,27,53.74,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,28,52.78,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,29,53.67,0
+Omeprazole 20mg,Omeprazole 20mg,Apollo Pharmacy,30,52.99,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,1,26.31,1
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,2,25.59,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,3,25.31,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,4,25.67,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,5,25.86,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,6,25.96,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,7,26.04,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,8,26.1,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,9,25.95,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,10,26.77,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,11,26.18,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,12,26.23,1
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,13,26.39,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,14,26.52,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,15,25.7,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,16,26.19,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,17,26.65,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,18,25.98,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,19,26.91,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,20,27.12,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,21,26.47,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,22,26.89,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,23,27.94,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,24,27.68,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,25,27.75,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,26,28.17,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,27,27.29,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,28,27.17,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,29,28.39,0
+Cetirizine 10mg,Cetirizine HCl 10mg,PharmEasy,30,27.96,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,1,23.45,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,2,24.94,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,3,23.29,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,4,24.24,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,5,24.16,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,6,24.18,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,7,23.4,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,8,25.28,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,9,23.97,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,10,24.62,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,11,24.65,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,12,25.23,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,13,24.29,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,14,25.37,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,15,25.34,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,16,25.04,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,17,25.65,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,18,25.56,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,19,26.51,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,20,25.66,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,21,25.4,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,22,26.17,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,23,25.9,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,24,26.15,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,25,25.66,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,26,26.64,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,27,26.23,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,28,26.68,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,29,27.65,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Netmeds,30,26.63,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,1,26.74,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,2,26.35,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,3,26.21,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,4,27.34,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,5,25.77,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,6,27.38,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,7,25.92,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,8,27.52,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,9,27.16,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,10,26.75,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,11,27.14,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,12,27.81,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,13,28.59,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,14,26.83,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,15,27.28,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,16,27.15,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,17,27.85,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,18,28.53,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,19,27.39,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,20,28.24,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,21,28.82,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,22,28.23,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,23,27.18,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,24,28.75,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,25,29.4,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,26,28.29,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,27,28.02,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,28,29.22,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,29,29.33,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Tata 1mg,30,28.99,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,1,25.26,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,2,25.72,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,3,25.25,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,4,25.35,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,5,26.35,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,6,25.51,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,7,25.32,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,8,25.95,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,9,26.16,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,10,26.74,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,11,26.3,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,12,27.43,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,13,26.84,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,14,26.49,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,15,27.21,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,16,27.81,1
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,17,27.53,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,18,26.53,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,19,27.2,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,20,27.63,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,21,27.91,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,22,27.61,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,23,27.64,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,24,28.82,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,25,28.34,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,26,28.32,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,27,27.92,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,28,27.74,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,29,28.62,0
+Cetirizine 10mg,Cetirizine HCl 10mg,Apollo Pharmacy,30,28.9,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,1,35.1,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,2,35.67,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,3,35.79,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,4,35.99,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,5,34.44,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,6,35.35,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,7,36.05,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,8,35.83,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,9,36.39,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,10,36.29,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,11,34.59,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,12,36.97,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,13,35.96,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,14,35.8,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,15,37.24,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,16,37.03,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,17,37.55,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,18,36.98,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,19,36.64,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,20,37.1,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,21,36.38,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,22,36.25,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,23,36.86,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,24,38.47,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,25,37.12,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,26,36.4,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,27,37.59,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,28,37.42,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,29,38.68,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,PharmEasy,30,39.01,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,1,33.08,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,2,33.62,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,3,33.78,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,4,33.62,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,5,33.6,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,6,33.24,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,7,32.72,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,8,33.43,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,9,34.09,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,10,33.29,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,11,34.49,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,12,34.5,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,13,34.19,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,14,34.47,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,15,33.89,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,16,35.4,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,17,35.49,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,18,34.29,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,19,34.4,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,20,34.64,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,21,35.72,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,22,35.68,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,23,36.25,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,24,36.43,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,25,34.73,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,26,36.19,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,27,36.7,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,28,35.83,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,29,36.13,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Netmeds,30,36.13,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,1,36.75,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,2,37.56,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,3,38.34,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,4,38.17,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,5,36.88,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,6,37.54,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,7,36.87,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,8,37.04,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,9,37.6,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,10,37.22,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,11,37.42,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,12,38.13,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,13,38.42,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,14,38.5,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,15,38.6,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,16,37.44,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,17,37.89,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,18,38.58,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,19,39.44,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,20,40.49,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,21,39.07,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,22,39.48,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,23,38.07,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,24,39.66,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,25,40.71,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,26,38.79,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,27,39.05,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,28,40.18,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,29,39.67,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Tata 1mg,30,38.34,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,1,35.45,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,2,36.93,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,3,35.8,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,4,35.9,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,5,36.76,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,6,36.54,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,7,36.16,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,8,36.06,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,9,38.71,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,10,37.59,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,11,37.14,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,12,37.29,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,13,36.91,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,14,37.33,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,15,37.04,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,16,36.69,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,17,37.66,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,18,37.28,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,19,37.9,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,20,38.13,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,21,38.14,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,22,37.24,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,23,37.7,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,24,37.89,1
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,25,38.9,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,26,38.96,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,27,37.89,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,28,37.6,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,29,40.33,0
+Ibuprofen 400mg,Ibuprofen IP 400mg,Apollo Pharmacy,30,39.01,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,1,175.14,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,2,178.17,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,3,183.98,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,4,187.92,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,5,187.24,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,6,182.0,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,7,171.21,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,8,180.81,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,9,177.25,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,10,181.31,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,11,177.88,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,12,179.73,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,13,184.39,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,14,180.56,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,15,180.42,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,16,181.42,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,17,191.13,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,18,177.8,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,19,182.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,20,188.33,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,21,181.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,22,186.6,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,23,177.55,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,24,181.67,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,25,179.62,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,26,182.37,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,27,182.55,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,28,183.01,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,29,185.95,0
+Allegra 120mg,Fexofenadine HCl 120mg,PharmEasy,30,174.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,1,169.03,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,2,171.92,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,3,164.88,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,4,173.52,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,5,169.36,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,6,170.97,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,7,174.77,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,8,176.16,1
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,9,174.13,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,10,168.11,1
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,11,174.15,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,12,174.49,1
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,13,173.86,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,14,177.38,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,15,172.79,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,16,177.42,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,17,177.5,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,18,175.19,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,19,173.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,20,174.58,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,21,178.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,22,176.86,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,23,169.77,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,24,174.76,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,25,170.6,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,26,171.37,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,27,172.43,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,28,168.99,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,29,170.8,0
+Allegra 120mg,Fexofenadine HCl 120mg,Netmeds,30,179.2,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,1,186.61,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,2,192.43,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,3,189.95,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,4,191.49,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,5,191.76,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,6,186.02,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,7,192.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,8,185.14,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,9,187.27,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,10,192.2,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,11,186.29,1
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,12,182.78,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,13,191.62,1
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,14,184.49,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,15,193.07,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,16,189.46,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,17,191.97,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,18,192.0,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,19,193.76,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,20,193.32,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,21,187.26,1
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,22,190.28,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,23,192.56,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,24,196.81,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,25,193.85,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,26,196.62,1
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,27,193.16,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,28,195.92,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,29,192.84,0
+Allegra 120mg,Fexofenadine HCl 120mg,Tata 1mg,30,195.95,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,1,182.41,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,2,189.54,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,3,185.74,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,4,178.86,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,5,185.45,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,6,176.49,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,7,186.6,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,8,187.65,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,9,191.68,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,10,182.74,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,11,191.91,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,12,184.81,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,13,182.17,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,14,183.22,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,15,187.17,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,16,181.97,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,17,184.07,1
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,18,186.66,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,19,191.21,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,20,188.74,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,21,185.86,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,22,187.85,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,23,186.79,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,24,181.77,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,25,192.55,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,26,191.98,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,27,186.03,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,28,184.74,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,29,182.35,0
+Allegra 120mg,Fexofenadine HCl 120mg,Apollo Pharmacy,30,188.89,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,1,202.62,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,2,196.98,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,3,201.31,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,4,203.68,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,5,198.43,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,6,199.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,7,199.88,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,8,197.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,9,200.19,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,10,194.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,11,200.08,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,12,200.23,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,13,201.05,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,14,203.32,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,15,196.69,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,16,197.43,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,17,198.62,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,18,196.62,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,19,204.28,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,20,199.77,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,21,201.97,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,22,198.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,23,200.86,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,24,203.6,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,25,203.9,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,26,198.58,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,27,202.38,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,28,199.47,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,29,202.43,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,PharmEasy,30,200.46,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,1,197.06,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,2,193.29,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,3,191.8,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,4,183.07,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,5,189.44,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,6,193.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,7,190.5,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,8,197.28,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,9,194.52,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,10,189.61,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,11,197.04,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,12,190.16,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,13,198.54,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,14,197.58,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,15,192.62,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,16,185.84,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,17,192.52,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,18,187.63,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,19,189.59,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,20,189.95,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,21,187.9,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,22,193.04,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,23,189.57,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,24,191.52,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,25,190.48,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,26,194.44,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,27,194.25,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,28,191.63,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,29,194.93,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Netmeds,30,197.67,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,1,201.33,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,2,207.74,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,3,206.37,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,4,207.6,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,5,201.1,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,6,201.69,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,7,199.16,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,8,208.7,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,9,208.69,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,10,216.83,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,11,211.69,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,12,202.25,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,13,213.43,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,14,227.89,1
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,15,202.75,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,16,218.84,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,17,211.51,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,18,210.02,1
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,19,209.51,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,20,213.38,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,21,210.35,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,22,207.45,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,23,210.05,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,24,213.91,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,25,215.38,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,26,220.36,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,27,213.11,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,28,218.24,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,29,212.08,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Tata 1mg,30,212.73,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,1,203.63,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,2,205.08,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,3,207.85,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,4,202.54,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,5,200.87,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,6,208.5,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,7,208.27,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,8,210.81,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,9,202.44,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,10,204.06,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,11,209.17,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,12,203.3,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,13,207.91,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,14,204.62,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,15,206.82,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,16,200.92,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,17,206.05,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,18,193.6,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,19,210.82,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,20,209.17,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,21,202.23,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,22,213.33,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,23,210.93,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,24,201.89,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,25,204.34,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,26,202.29,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,27,208.14,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,28,204.47,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,29,199.1,0
+Augmentin 625mg,Amoxicillin + Clavulanic Acid 625mg,Apollo Pharmacy,30,206.72,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,1,76.47,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,2,75.36,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,3,76.12,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,4,75.7,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,5,76.6,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,6,76.03,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,7,75.52,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,8,75.94,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,9,78.17,1
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,10,76.9,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,11,74.67,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,12,76.32,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,13,76.8,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,14,76.17,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,15,73.64,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,16,75.31,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,17,76.08,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,18,79.63,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,19,77.63,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,20,74.68,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,21,76.96,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,22,79.19,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,23,76.42,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,24,78.96,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,25,75.22,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,26,73.35,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,27,79.5,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,28,77.11,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,29,75.1,0
+Telmisartan 40mg,Telmisartan 40mg,PharmEasy,30,77.42,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,1,71.62,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,2,72.09,1
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,3,68.0,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,4,70.71,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,5,71.83,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,6,72.49,1
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,7,70.58,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,8,71.76,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,9,71.31,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,10,72.57,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,11,74.0,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,12,71.97,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,13,70.6,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,14,71.64,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,15,75.22,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,16,71.63,1
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,17,71.24,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,18,72.49,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,19,73.02,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,20,72.5,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,21,71.19,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,22,73.91,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,23,73.87,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,24,74.64,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,25,74.04,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,26,76.18,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,27,75.05,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,28,74.84,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,29,75.86,0
+Telmisartan 40mg,Telmisartan 40mg,Netmeds,30,74.45,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,1,78.56,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,2,79.44,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,3,75.98,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,4,79.38,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,5,79.1,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,6,80.01,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,7,81.09,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,8,80.47,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,9,78.54,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,10,81.1,1
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,11,82.45,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,12,81.64,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,13,78.01,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,14,81.05,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,15,78.42,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,16,79.9,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,17,81.06,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,18,80.95,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,19,82.3,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,20,83.36,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,21,81.62,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,22,80.39,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,23,78.04,1
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,24,83.23,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,25,81.11,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,26,81.29,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,27,81.52,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,28,82.25,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,29,82.4,0
+Telmisartan 40mg,Telmisartan 40mg,Tata 1mg,30,81.33,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,1,76.45,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,2,75.78,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,3,75.72,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,4,75.81,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,5,76.83,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,6,75.73,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,7,72.75,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,8,76.73,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,9,75.51,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,10,77.67,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,11,76.67,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,12,78.4,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,13,76.03,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,14,75.22,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,15,77.85,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,16,77.46,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,17,76.18,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,18,79.49,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,19,76.87,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,20,77.35,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,21,80.09,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,22,79.49,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,23,77.11,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,24,78.39,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,25,77.17,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,26,80.47,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,27,80.57,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,28,82.1,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,29,82.89,0
+Telmisartan 40mg,Telmisartan 40mg,Apollo Pharmacy,30,78.56,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,1,30.53,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,2,29.07,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,3,30.41,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,4,30.66,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,5,29.93,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,6,30.19,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,7,31.24,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,8,31.07,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,9,31.9,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,10,31.91,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,11,30.11,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,12,30.89,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,13,30.67,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,14,31.85,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,15,31.67,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,16,31.01,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,17,31.19,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,18,32.55,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,19,31.65,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,20,30.78,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,21,31.46,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,22,33.35,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,23,32.9,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,24,31.65,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,25,32.61,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,26,33.16,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,27,31.7,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,28,33.44,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,29,33.16,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,PharmEasy,30,32.56,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,1,28.94,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,2,28.87,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,3,29.01,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,4,28.98,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,5,28.5,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,6,28.69,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,7,29.06,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,8,29.33,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,9,29.78,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,10,30.61,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,11,29.73,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,12,30.07,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,13,30.3,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,14,30.31,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,15,29.48,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,16,30.87,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,17,30.87,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,18,30.38,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,19,29.91,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,20,30.52,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,21,29.71,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,22,31.56,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,23,30.44,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,24,30.74,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,25,31.81,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,26,29.68,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,27,31.93,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,28,31.49,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,29,32.36,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Netmeds,30,30.96,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,1,31.81,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,2,31.11,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,3,32.49,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,4,32.57,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,5,33.11,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,6,32.1,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,7,33.51,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,8,31.66,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,9,32.37,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,10,31.88,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,11,32.72,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,12,32.13,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,13,33.5,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,14,33.2,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,15,32.31,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,16,33.63,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,17,34.2,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,18,33.66,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,19,32.54,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,20,33.41,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,21,34.04,1
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,22,33.55,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,23,33.15,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,24,34.67,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,25,33.82,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,26,35.1,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,27,33.87,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,28,34.09,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,29,34.03,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Tata 1mg,30,34.4,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,1,30.98,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,2,30.2,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,3,30.19,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,4,29.97,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,5,30.0,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,6,30.37,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,7,30.98,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,8,31.51,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,9,31.75,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,10,31.68,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,11,32.59,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,12,32.91,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,13,31.73,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,14,31.41,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,15,33.43,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,16,32.93,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,17,32.98,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,18,32.05,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,19,33.03,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,20,32.69,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,21,32.65,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,22,32.75,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,23,33.21,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,24,33.91,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,25,34.49,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,26,32.95,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,27,33.42,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,28,33.34,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,29,33.77,0
+Amlodipine 5mg,Amlodipine Besylate 5mg,Apollo Pharmacy,30,32.05,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,1,44.9,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,2,47.04,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,3,44.69,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,4,45.04,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,5,45.0,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,6,45.47,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,7,44.54,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,8,45.32,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,9,46.28,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,10,46.38,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,11,46.33,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,12,47.45,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,13,46.72,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,14,47.61,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,15,48.55,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,16,47.4,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,17,45.54,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,18,47.06,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,19,47.03,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,20,48.43,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,21,47.0,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,22,46.48,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,23,46.87,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,24,46.27,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,25,44.86,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,26,49.45,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,27,47.72,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,28,46.75,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,29,49.43,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,PharmEasy,30,49.71,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,1,43.0,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,2,41.81,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,3,42.66,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,4,42.96,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,5,43.29,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,6,42.44,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,7,44.29,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,8,41.75,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,9,44.64,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,10,44.94,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,11,43.54,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,12,43.9,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,13,45.36,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,14,44.72,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,15,43.97,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,16,44.17,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,17,44.89,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,18,46.2,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,19,44.49,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,20,44.45,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,21,44.89,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,22,44.99,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,23,45.33,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,24,45.1,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,25,46.29,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,26,44.6,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,27,45.82,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,28,45.96,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,29,44.97,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Netmeds,30,46.11,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,1,47.83,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,2,45.09,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,3,46.64,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,4,49.19,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,5,47.2,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,6,46.74,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,7,46.22,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,8,47.06,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,9,48.05,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,10,47.08,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,11,48.99,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,12,47.68,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,13,48.86,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,14,50.02,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,15,50.05,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,16,49.15,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,17,47.9,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,18,49.02,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,19,49.48,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,20,51.62,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,21,47.61,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,22,49.42,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,23,50.16,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,24,49.77,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,25,49.97,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,26,49.13,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,27,50.86,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,28,50.1,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,29,50.37,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Tata 1mg,30,51.27,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,1,45.73,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,2,47.3,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,3,45.03,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,4,46.56,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,5,45.65,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,6,45.52,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,7,48.36,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,8,45.58,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,9,46.87,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,10,45.71,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,11,48.14,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,12,46.74,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,13,48.18,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,14,47.85,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,15,49.51,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,16,46.14,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,17,46.71,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,18,48.62,1
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,19,48.11,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,20,47.69,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,21,49.88,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,22,48.1,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,23,47.48,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,24,49.29,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,25,48.43,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,26,48.6,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,27,49.24,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,28,49.37,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,29,47.9,0
+Levocetirizine 5mg,Levocetirizine Dihydrochloride 5mg,Apollo Pharmacy,30,48.64,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,1,107.08,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,2,110.97,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,3,114.48,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,4,108.31,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,5,107.11,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,6,109.21,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,7,110.18,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,8,112.44,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,9,110.15,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,10,111.81,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,11,110.01,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,12,110.8,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,13,109.52,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,14,108.95,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,15,113.22,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,16,110.65,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,17,112.68,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,18,109.98,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,19,111.92,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,20,107.41,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,21,111.31,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,22,110.6,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,23,114.92,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,24,109.63,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,25,112.19,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,26,113.35,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,27,114.96,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,28,114.72,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,29,112.76,0
+Montelukast 10mg,Montelukast Sodium 10mg,PharmEasy,30,113.16,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,1,107.09,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,2,104.53,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,3,105.17,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,4,107.47,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,5,110.19,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,6,105.65,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,7,106.31,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,8,107.05,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,9,107.95,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,10,107.71,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,11,104.41,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,12,106.4,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,13,108.03,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,14,108.94,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,15,105.71,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,16,106.74,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,17,107.09,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,18,106.38,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,19,106.99,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,20,102.04,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,21,113.38,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,22,111.52,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,23,106.42,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,24,106.68,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,25,103.58,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,26,103.37,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,27,108.24,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,28,109.54,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,29,109.19,0
+Montelukast 10mg,Montelukast Sodium 10mg,Netmeds,30,105.77,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,1,117.43,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,2,115.42,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,3,114.94,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,4,112.79,1
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,5,114.35,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,6,117.3,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,7,116.94,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,8,116.69,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,9,111.37,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,10,116.91,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,11,115.25,1
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,12,117.46,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,13,119.69,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,14,115.86,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,15,117.24,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,16,121.82,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,17,117.84,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,18,117.25,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,19,115.52,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,20,119.4,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,21,115.35,1
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,22,120.71,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,23,119.34,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,24,116.62,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,25,116.19,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,26,116.35,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,27,114.11,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,28,119.39,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,29,113.61,0
+Montelukast 10mg,Montelukast Sodium 10mg,Tata 1mg,30,118.3,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,1,111.96,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,2,111.67,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,3,113.54,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,4,111.36,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,5,113.11,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,6,115.72,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,7,114.22,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,8,112.07,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,9,113.12,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,10,112.47,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,11,112.93,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,12,113.88,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,13,110.38,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,14,110.01,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,15,111.7,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,16,114.95,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,17,115.37,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,18,115.82,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,19,112.18,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,20,114.42,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,21,113.44,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,22,114.12,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,23,113.6,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,24,115.2,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,25,113.2,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,26,117.43,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,27,117.55,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,28,116.08,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,29,117.42,0
+Montelukast 10mg,Montelukast Sodium 10mg,Apollo Pharmacy,30,112.01,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,1,153.81,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,2,151.34,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,3,148.46,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,4,148.27,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,5,155.33,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,6,153.08,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,7,150.25,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,8,146.5,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,9,154.79,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,10,147.68,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,11,150.0,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,12,150.75,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,13,149.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,14,150.81,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,15,151.48,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,16,150.95,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,17,152.66,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,18,156.76,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,19,147.73,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,20,152.47,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,21,148.81,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,22,147.77,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,23,155.15,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,24,153.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,25,147.9,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,26,152.01,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,27,147.17,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,28,150.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,29,146.31,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,PharmEasy,30,152.51,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,1,144.57,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,2,144.36,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,3,141.68,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,4,145.75,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,5,146.97,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,6,145.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,7,141.62,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,8,142.93,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,9,148.0,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,10,142.58,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,11,145.27,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,12,141.6,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,13,146.68,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,14,141.49,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,15,143.75,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,16,145.66,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,17,149.49,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,18,144.94,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,19,143.65,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,20,143.54,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,21,147.34,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,22,146.02,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,23,146.71,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,24,149.25,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,25,145.17,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,26,146.21,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,27,144.2,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,28,143.1,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,29,143.7,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Netmeds,30,138.69,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,1,159.29,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,2,159.05,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,3,159.42,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,4,155.27,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,5,156.17,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,6,156.17,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,7,161.72,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,8,158.89,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,9,158.56,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,10,160.92,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,11,156.68,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,12,159.84,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,13,165.15,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,14,162.97,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,15,160.09,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,16,159.37,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,17,160.79,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,18,163.86,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,19,163.69,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,20,164.67,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,21,160.37,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,22,153.14,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,23,165.86,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,24,157.46,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,25,153.78,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,26,162.47,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,27,153.69,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,28,160.39,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,29,153.85,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Tata 1mg,30,159.49,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,1,158.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,2,154.3,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,3,153.36,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,4,154.85,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,5,145.22,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,6,151.67,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,7,152.21,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,8,155.74,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,9,150.89,1
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,10,154.61,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,11,153.86,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,12,152.43,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,13,152.72,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,14,154.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,15,148.83,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,16,157.0,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,17,152.31,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,18,154.01,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,19,159.79,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,20,157.45,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,21,151.58,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,22,146.51,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,23,156.88,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,24,154.72,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,25,156.13,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,26,157.94,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,27,158.55,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,28,154.53,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,29,155.58,0
+Rosuvastatin 10mg,Rosuvastatin Calcium 10mg,Apollo Pharmacy,30,157.2,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,1,55.61,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,2,55.41,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,3,56.91,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,4,55.89,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,5,56.32,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,6,55.91,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,7,54.61,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,8,55.1,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,9,54.59,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,10,57.16,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,11,54.41,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,12,56.04,1
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,13,55.9,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,14,54.19,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,15,56.07,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,16,56.26,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,17,58.55,1
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,18,54.7,1
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,19,58.34,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,20,56.75,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,21,58.05,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,22,57.29,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,23,56.09,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,24,58.96,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,25,58.86,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,26,56.46,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,27,58.36,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,28,57.15,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,29,56.25,0
+Glimepiride 1mg,Glimepiride 1mg,PharmEasy,30,57.14,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,1,53.76,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,2,53.38,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,3,52.24,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,4,54.07,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,5,53.95,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,6,52.04,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,7,54.65,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,8,52.66,1
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,9,52.9,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,10,51.27,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,11,52.72,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,12,53.31,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,13,53.87,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,14,52.51,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,15,52.98,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,16,55.58,1
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,17,55.07,1
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,18,55.38,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,19,54.09,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,20,54.6,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,21,55.0,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,22,56.16,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,23,52.96,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,24,51.9,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,25,54.21,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,26,55.1,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,27,55.04,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,28,54.27,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,29,55.7,0
+Glimepiride 1mg,Glimepiride 1mg,Netmeds,30,54.75,1
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,1,57.86,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,2,58.5,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,3,57.55,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,4,59.07,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,5,59.39,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,6,57.53,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,7,57.89,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,8,57.43,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,9,58.64,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,10,59.1,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,11,60.94,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,12,58.55,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,13,59.37,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,14,58.56,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,15,58.7,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,16,59.77,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,17,58.97,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,18,59.48,1
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,19,60.11,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,20,60.05,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,21,57.09,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,22,59.38,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,23,61.32,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,24,58.34,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,25,56.78,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,26,61.01,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,27,60.73,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,28,59.29,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,29,60.78,0
+Glimepiride 1mg,Glimepiride 1mg,Tata 1mg,30,60.03,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,1,56.75,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,2,53.1,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,3,56.11,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,4,55.9,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,5,57.5,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,6,54.61,1
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,7,56.85,1
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,8,57.53,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,9,59.08,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,10,56.56,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,11,57.56,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,12,55.28,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,13,57.39,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,14,58.82,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,15,59.7,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,16,58.17,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,17,56.04,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,18,59.42,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,19,56.25,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,20,56.78,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,21,59.83,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,22,58.21,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,23,57.74,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,24,59.28,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,25,58.78,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,26,61.16,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,27,60.01,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,28,59.14,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,29,59.26,0
+Glimepiride 1mg,Glimepiride 1mg,Apollo Pharmacy,30,60.26,0

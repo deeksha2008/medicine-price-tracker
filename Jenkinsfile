@@ -18,6 +18,15 @@ pipeline {
             }
         }
         
+        stage('MLOps Retraining Pipeline') {
+            steps {
+                script {
+                    echo 'Running MLOps Retraining pipeline...'
+                    sh "docker run --rm -v $(pwd)/backend:/backend -w /backend python:3.10 bash -c 'pip install pandas scikit-learn numpy && python ml_service/train.py'"
+                }
+            }
+        }
+        
         stage('Install & Test') {
             steps {
                 script {

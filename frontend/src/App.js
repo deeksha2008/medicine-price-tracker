@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import SearchBar from './components/SearchBar';
 import ResultsTable from './components/ResultsTable';
 import MLInsights from './components/MLInsights';
@@ -9,7 +9,7 @@ import ProfilePage from './components/ProfilePage';
 import './index.css';
 
 function App() {
-  const [activeTab, setActiveTab] = useState('home');
+  const [activeTab, setActiveTab] = useState('profile');
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(false);
   const [query, setQuery] = useState('');
@@ -17,15 +17,35 @@ function App() {
   const [cartItems, setCartItems] = useState([]);
   const [toast, setToast] = useState(null);
 
+  useEffect(() => {
+    const email = localStorage.getItem('email');
+    if (email) {
+      const savedCart = localStorage.getItem(email + '_cart');
+      if (savedCart) {
+        setCartItems(JSON.parse(savedCart));
+      }
+    }
+  }, []);
+
   const handleAddToCart = (item) => {
     const itemToAdd = { ...item, name: item.name || query };
-    setCartItems(prev => [...prev, itemToAdd]);
+    setCartItems(prev => {
+      const newCart = [...prev, itemToAdd];
+      const email = localStorage.getItem('email');
+      if (email) localStorage.setItem(email + '_cart', JSON.stringify(newCart));
+      return newCart;
+    });
     setToast(`Added ${itemToAdd.name} to cart!`);
     setTimeout(() => setToast(null), 3000);
   };
 
   const removeFromCart = (index) => {
-    setCartItems(prev => prev.filter((_, i) => i !== index));
+    setCartItems(prev => {
+      const newCart = prev.filter((_, i) => i !== index);
+      const email = localStorage.getItem('email');
+      if (email) localStorage.setItem(email + '_cart', JSON.stringify(newCart));
+      return newCart;
+    });
   };
 
   const handleSearch = async (medicine) => {
@@ -56,7 +76,7 @@ function App() {
       case 'insights':
         return <InsightsPage query={query} currentLowest={results?.results?.[0]?.price} />;
       case 'profile':
-        return <ProfilePage cartItems={cartItems} setActiveTab={setActiveTab} />;
+        return <ProfilePage cartItems={cartItems} setCartItems={setCartItems} setActiveTab={setActiveTab} />;
       case 'home':
       default:
         return (

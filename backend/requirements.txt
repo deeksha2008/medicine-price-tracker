@@ -9,3 +9,6 @@ hvac
 elasticsearch
 pytest
 httpx
+PyJWT
+passlib[bcrypt]
+SQLAlchemy

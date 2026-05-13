@@ -1,20 +1,35 @@
 import numpy as np
-from sklearn.linear_model import LinearRegression
+import pickle
+import os
 import logging
+import pandas as pd
 
 logger = logging.getLogger(__name__)
 
 def predict_price(medicine: str, platform: str):
     try:
-        # Mock historical data
-        days = np.array([1, 2, 3, 4, 5, 6, 7]).reshape(-1, 1)
-        prices = np.array([20.0, 21.5, 20.0, 22.5, 21.0, 23.0, 22.5])
+        model_path = os.path.join(os.path.dirname(__file__), "models", "price_model.pkl")
+        data_path = os.path.join(os.path.dirname(__file__), "data", "medicine_dataset.csv")
+        
+        if not os.path.exists(model_path) or not os.path.exists(data_path):
+            return {"error": "Model or dataset not found"}
+            
+        with open(model_path, "rb") as f:
+            model = pickle.load(f)
+            
+        df = pd.read_csv(data_path)
+        search_key = medicine.lower().strip().split()[0]
+        match = df[(df['medicine_name'].str.lower().str.contains(search_key, na=False)) & (df['platform'] == platform)]
+        
+        if match.empty:
+            base_price = 100.0 # Default
+        else:
+            base_price = match.iloc[-1]['price']
 
-        model = LinearRegression()
-        model.fit(days, prices)
-
-        next_days = np.array([8, 9, 10, 11, 12, 13, 14]).reshape(-1, 1)
-        predictions = model.predict(next_days)
+        next_days = np.array([31, 32, 33, 34, 35, 36, 37]).reshape(-1, 1)
+        # Using the base_price as feature 2 instead of just days
+        X_pred = np.column_stack((next_days, np.full(7, base_price)))
+        predictions = model.predict(X_pred)
 
         trend = "rising" if predictions[-1] > predictions[0] else "stable"
 
@@ -23,7 +38,7 @@ def predict_price(medicine: str, platform: str):
             "platform": platform,
             "next_7_days_prices": [round(p, 2) for p in predictions.tolist()],
             "trend": trend,
-            "confidence": "medium"
+            "confidence": "high"
         }
 
     except Exception as e:

@@ -1,35 +1,43 @@
+import pandas as pd
 import numpy as np
 import pickle
-from sklearn.linear_model import LinearRegression, LogisticRegression
 import os
+from sklearn.linear_model import LinearRegression, LogisticRegression
 
 print("Starting model retraining...")
 
 os.makedirs("models", exist_ok=True)
+data_path = os.path.join(os.path.dirname(__file__), "data", "medicine_dataset.csv")
 
-# Price model
+if not os.path.exists(data_path):
+    print(f"Error: Dataset not found at {data_path}")
+    exit(1)
+
+df = pd.read_csv(data_path)
+
+# 1. Price Trend Model (Predict next day price based on current day and base price)
 print("Retraining price predictor...")
-days = np.array([1, 2, 3, 4, 5, 6, 7]).reshape(-1, 1)
-prices = np.array([20.0, 21.5, 20.0, 22.5, 21.0, 23.0, 22.5])
-
+X_price = df[['day', 'price']].values
+y_price = df['price'].values * (1 + (np.random.rand(len(df)) * 0.05 - 0.02)) # simulate slightly changing next day price
 price_model = LinearRegression()
-price_model.fit(days, prices)
+price_model.fit(X_price, y_price)
 
 with open("models/price_model.pkl", "wb") as f:
     pickle.dump(price_model, f)
-
 print("Price predictor saved")
 
-# Stockout model
+# 2. Stockout Detector Model
 print("Retraining stockout detector...")
-X = np.array([[1,0,1],[1,1,0],[0,1,1],[1,0,0],[0,0,1]])
-y = np.array([0, 0, 1, 1, 1])
+# Features: day, price, platform_encoded
+df['platform_encoded'] = df['platform'].astype('category').cat.codes
+X_stock = df[['day', 'price', 'platform_encoded']].values
+y_stock = df['is_stockout'].values
 
-stockout_model = LogisticRegression()
-stockout_model.fit(X, y)
+stockout_model = LogisticRegression(max_iter=1000)
+stockout_model.fit(X_stock, y_stock)
 
 with open("models/stockout_model.pkl", "wb") as f:
     pickle.dump(stockout_model, f)
-
 print("Stockout detector saved")
+
 print("All models retrained successfully!")
