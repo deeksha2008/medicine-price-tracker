@@ -135,14 +135,14 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, isDarkMode, setIsD
           <div className="ml-card" style={{marginBottom: '30px'}}>
             <h3 style={{marginBottom: '20px'}}>Saved Carts</h3>
             {cartItems.length > 0 ? (
-              <div className="saved-cart-card" style={{background: 'rgba(2, 6, 23, 0.5)', padding: '20px', borderRadius: 'var(--radius-sm)', border: '1px solid rgba(255,255,255,0.05)'}}>
+              <div className="saved-cart-card" style={{background: 'var(--inner-bg)', padding: '20px', borderRadius: 'var(--radius-sm)', border: '1px solid rgba(255,255,255,0.05)'}}>
                 <div style={{display: 'flex', justifyContent: 'space-between', marginBottom: '15px'}}>
                   <span style={{fontWeight: '600'}}>Current Session Cart</span>
                   <span style={{color: 'var(--text-muted)'}}>{cartItems.length} items</span>
                 </div>
                 <div style={{display: 'flex', gap: '10px', overflowX: 'auto', paddingBottom: '10px'}}>
                   {cartItems.map((item, i) => (
-                    <div key={i} style={{background: 'rgba(30, 41, 59, 0.8)', padding: '10px', borderRadius: '8px', minWidth: '120px', fontSize: '13px', flexShrink: 0}}>
+                    <div key={i} style={{background: 'var(--card-bg)', padding: '10px', borderRadius: '8px', minWidth: '120px', fontSize: '13px', flexShrink: 0}}>
                       <div style={{whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', fontWeight: '500'}}>{item.name}</div>
                       <div style={{color: 'var(--accent-teal)', marginTop: '5px'}}>₹{item.price}</div>
                     </div>
@@ -179,7 +179,7 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, isDarkMode, setIsD
         <div className="profile-settings ml-card" style={{alignSelf: 'start'}}>
           <h3 style={{marginBottom: '20px'}}>Account Settings</h3>
           <div style={{display: 'flex', flexDirection: 'column', gap: '15px'}}>
-            <div className="setting-row" style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '15px', background: 'rgba(2, 6, 23, 0.3)', borderRadius: '8px'}}>
+            <div className="setting-row" style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '15px', background: 'var(--inner-bg)', borderRadius: '8px'}}>
               <div>
                 <h4 style={{marginBottom: '4px'}}>Email Notifications</h4>
                 <p style={{fontSize: '12px', color: 'var(--text-muted)'}}>Receive price drop alerts</p>
@@ -196,7 +196,7 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, isDarkMode, setIsD
                 justifyContent: 'space-between', 
                 alignItems: 'center', 
                 padding: '15px', 
-                background: 'rgba(2, 6, 23, 0.3)', 
+                background: 'var(--inner-bg)', 
                 borderRadius: '8px',
                 cursor: 'pointer',
                 transition: 'all 0.2s'
