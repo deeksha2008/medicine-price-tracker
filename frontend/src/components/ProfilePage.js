@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-function ProfilePage({ cartItems, setCartItems, setActiveTab }) {
+function ProfilePage({ cartItems, setCartItems, setActiveTab, isDarkMode, setIsDarkMode }) {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -193,8 +193,30 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab }) {
                 <h4 style={{marginBottom: '4px'}}>Dark Mode</h4>
                 <p style={{fontSize: '12px', color: 'var(--text-muted)'}}>App appearance</p>
               </div>
-              <div className="toggle" style={{width: '40px', height: '20px', background: 'var(--accent-teal)', borderRadius: '10px', position: 'relative', cursor: 'pointer'}}>
-                <div style={{width: '16px', height: '16px', background: '#fff', borderRadius: '50%', position: 'absolute', right: '2px', top: '2px'}}></div>
+              <div 
+                className="toggle" 
+                onClick={() => setIsDarkMode(!isDarkMode)}
+                style={{
+                  width: '40px', 
+                  height: '20px', 
+                  background: isDarkMode ? 'var(--accent-teal)' : '#64748b', 
+                  borderRadius: '10px', 
+                  position: 'relative', 
+                  cursor: 'pointer',
+                  transition: 'all 0.3s'
+                }}
+              >
+                <div style={{
+                  width: '16px', 
+                  height: '16px', 
+                  background: '#fff', 
+                  borderRadius: '50%', 
+                  position: 'absolute', 
+                  left: isDarkMode ? 'auto' : '2px',
+                  right: isDarkMode ? '2px' : 'auto',
+                  top: '2px',
+                  transition: 'all 0.3s'
+                }}></div>
               </div>
             </div>
             <button onClick={handleLogout} style={{padding: '12px', background: 'transparent', border: '1px solid #ef4444', color: '#ef4444', borderRadius: '8px', cursor: 'pointer', marginTop: '10px', transition: 'all 0.2s', fontWeight: 'bold'}} onMouseOver={(e) => e.target.style.background='rgba(239, 68, 68, 0.1)'} onMouseOut={(e) => e.target.style.background='transparent'}>
