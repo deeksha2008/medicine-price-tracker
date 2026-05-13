@@ -18,19 +18,7 @@
   --radius-sm: 8px;
 }
 
-body.light-mode {
-  --bg-color: #f8fafc !important;
-  --bg-gradient: linear-gradient(135deg, #f1f5f9 0%, #ffffff 100%) !important;
-  --card-bg: #ffffff !important;
-  --card-bg-gradient: linear-gradient(180deg, #ffffff 0%, #f1f5f9 100%) !important;
-  --inner-bg: #f8fafc !important;
-  --row-bg: #ffffff !important;
-  --card-border: rgba(20, 184, 166, 0.3) !important;
-  --text-main: #0f172a !important;
-  --text-muted: #475569 !important;
-  --shadow: 0 10px 40px rgba(0, 0, 0, 0.05) !important;
-  --shadow-glow: 0 0 20px rgba(20, 184, 166, 0.1) !important;
-}
+
 
 * {
   box-sizing: border-box;

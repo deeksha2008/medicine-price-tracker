@@ -16,22 +16,6 @@ function App() {
   const [error, setError] = useState('');
   const [cartItems, setCartItems] = useState([]);
   const [toast, setToast] = useState(null);
-  const [isDarkMode, setIsDarkMode] = useState(() => {
-    const saved = localStorage.getItem('theme');
-    return saved === 'light' ? false : true; // Default to dark
-  });
-
-  useEffect(() => {
-    if (isDarkMode) {
-      document.body.classList.add('dark-mode');
-      document.body.classList.remove('light-mode');
-      localStorage.setItem('theme', 'dark');
-    } else {
-      document.body.classList.add('light-mode');
-      document.body.classList.remove('dark-mode');
-      localStorage.setItem('theme', 'light');
-    }
-  }, [isDarkMode]);
 
   useEffect(() => {
     const email = localStorage.getItem('email');
@@ -92,7 +76,7 @@ function App() {
       case 'insights':
         return <InsightsPage query={query} currentLowest={results?.results?.[0]?.price} />;
       case 'profile':
-        return <ProfilePage cartItems={cartItems} setCartItems={setCartItems} setActiveTab={setActiveTab} isDarkMode={isDarkMode} setIsDarkMode={setIsDarkMode} />;
+        return <ProfilePage cartItems={cartItems} setCartItems={setCartItems} setActiveTab={setActiveTab} />;
       case 'home':
       default:
         return (
