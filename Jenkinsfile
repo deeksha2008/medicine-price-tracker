@@ -80,6 +80,7 @@ pipeline {
                 sh './kubectl apply -f k8s/ || echo "Kubernetes Cluster API unreachable. Manifest validation triggered successfully."'
             }
         }
+    }
     post {
         always {
             echo "Pipeline completion reached."
