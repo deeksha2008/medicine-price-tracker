@@ -244,6 +244,15 @@ body {
   font-weight: 500;
 }
 
+.status-badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
 /* ML Insights Card */
 .ml-card {
   background: var(--card-bg-gradient);
