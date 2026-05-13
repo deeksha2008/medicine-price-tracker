@@ -80,5 +80,19 @@ pipeline {
                 sh './kubectl apply -f k8s/ || echo "Kubernetes Cluster API unreachable. Manifest validation triggered successfully."'
             }
         }
+    post {
+        always {
+            echo "Pipeline completion reached."
+        }
+        success {
+            mail to: 'deeksha.jain2008@gmail.com',
+                 subject: "✅ Pipeline Success: ${env.JOB_NAME} [${env.BUILD_NUMBER}]",
+                 body: "The build was successful! Check details: ${env.BUILD_URL}"
+        }
+        failure {
+            mail to: 'deeksha.jain2008@gmail.com',
+                 subject: "❌ Pipeline Failure: ${env.JOB_NAME} [${env.BUILD_NUMBER}]",
+                 body: "The build failed. Check logs: ${env.BUILD_URL}"
+        }
     }
 }
