@@ -130,7 +130,6 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, setAppLoggedIn }) 
             <p>{email}</p>
           </div>
         </div>
-        <button className="btn-cart" onClick={handleLogout} style={{padding: '10px 20px'}}>Sign Out</button>
       </div>
 
       <div className="main-grid">
