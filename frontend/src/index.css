@@ -245,12 +245,18 @@ body {
 }
 
 .status-badge {
-  display: inline-block;
-  padding: 6px 12px;
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 16px !important;
   border-radius: 50px;
   font-size: 12px;
-  font-weight: 600;
-  white-space: nowrap;
+  font-weight: 700;
+  white-space: nowrap !important;
+  min-width: 100px;
+  background: rgba(45, 212, 191, 0.1);
+  color: var(--accent-teal);
+  border: 1px solid rgba(45, 212, 191, 0.2);
 }
 
 /* ML Insights Card */
