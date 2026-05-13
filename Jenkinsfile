@@ -22,7 +22,16 @@ pipeline {
             steps {
                 script {
                     echo 'Running MLOps Retraining pipeline...'
-                    sh "docker run --rm -v \${WORKSPACE}/backend:/backend -w /backend python:3.10 bash -c 'pip install pandas scikit-learn numpy && python ml_service/train.py'"
+                    sh '''
+                    cat <<EOF > Dockerfile.train
+                    FROM python:3.10
+                    WORKDIR /backend
+                    COPY backend/ /backend/
+                    RUN pip install pandas scikit-learn numpy
+                    RUN python ml_service/train.py
+                    EOF
+                    docker build -t ml-trainer -f Dockerfile.train .
+                    '''
                 }
             }
         }
