@@ -16,10 +16,12 @@ function App() {
   const [error, setError] = useState('');
   const [cartItems, setCartItems] = useState([]);
   const [toast, setToast] = useState(null);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
     const email = localStorage.getItem('email');
     if (email) {
+      setIsLoggedIn(true);
       const savedCart = localStorage.getItem(email + '_cart');
       if (savedCart) {
         setCartItems(JSON.parse(savedCart));
@@ -76,7 +78,8 @@ function App() {
       case 'insights':
         return <InsightsPage query={query} currentLowest={results?.results?.[0]?.price} />;
       case 'profile':
-        return <ProfilePage cartItems={cartItems} setCartItems={setCartItems} setActiveTab={setActiveTab} />;
+      case 'profile':
+        return <ProfilePage cartItems={cartItems} setCartItems={setCartItems} setActiveTab={setActiveTab} setAppLoggedIn={setIsLoggedIn} />;
       case 'home':
       default:
         return (
@@ -125,12 +128,20 @@ function App() {
           <span role="img" aria-label="pill">💊</span> MediCompare
         </div>
         <div className="nav-tabs">
-          <button className={`nav-tab ${activeTab === 'home' ? 'active' : ''}`} onClick={() => setActiveTab('home')}>Home</button>
-          <button className={`nav-tab ${activeTab === 'insights' ? 'active' : ''}`} onClick={() => setActiveTab('insights')}>Insights</button>
-          <button className={`nav-tab ${activeTab === 'profile' ? 'active' : ''}`} onClick={() => setActiveTab('profile')}>Profile</button>
-          <button className={`nav-tab cart-tab ${activeTab === 'cart' || activeTab === 'checkout' ? 'active' : ''}`} onClick={() => setActiveTab('cart')}>
-            🛒 Cart {cartItems.length > 0 && <span className="nav-cart-badge">{cartItems.length}</span>}
+          {isLoggedIn && (
+            <>
+              <button className={`nav-tab ${activeTab === 'home' ? 'active' : ''}`} onClick={() => setActiveTab('home')}>Home</button>
+              <button className={`nav-tab ${activeTab === 'insights' ? 'active' : ''}`} onClick={() => setActiveTab('insights')}>Insights</button>
+            </>
+          )}
+          <button className={`nav-tab ${activeTab === 'profile' ? 'active' : ''}`} onClick={() => setActiveTab('profile')}>
+            {isLoggedIn ? 'Profile' : 'Sign In'}
           </button>
+          {isLoggedIn && (
+            <button className={`nav-tab cart-tab ${activeTab === 'cart' || activeTab === 'checkout' ? 'active' : ''}`} onClick={() => setActiveTab('cart')}>
+              🛒 Cart {cartItems.length > 0 && <span className="nav-cart-badge">{cartItems.length}</span>}
+            </button>
+          )}
         </div>
       </nav>
 

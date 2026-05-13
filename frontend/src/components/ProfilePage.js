@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-function ProfilePage({ cartItems, setCartItems, setActiveTab }) {
+function ProfilePage({ cartItems, setCartItems, setActiveTab, setAppLoggedIn }) {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -42,6 +42,7 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab }) {
       localStorage.setItem('token', data.access_token);
       localStorage.setItem('email', data.email);
       setIsLoggedIn(true);
+      if (setAppLoggedIn) setAppLoggedIn(true);
       
       if (setCartItems) {
         const savedCart = localStorage.getItem(data.email + '_cart');
@@ -59,6 +60,7 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab }) {
     localStorage.removeItem('token');
     localStorage.removeItem('email');
     setIsLoggedIn(false);
+    if (setAppLoggedIn) setAppLoggedIn(false);
     setEmail('');
     setPassword('');
     if (setCartItems) {
