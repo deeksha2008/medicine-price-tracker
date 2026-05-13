@@ -43,6 +43,7 @@ function ProfilePage({ cartItems, setCartItems, setActiveTab, setAppLoggedIn }) 
       localStorage.setItem('email', data.email);
       setIsLoggedIn(true);
       if (setAppLoggedIn) setAppLoggedIn(true);
+      setActiveTab('home');
       
       if (setCartItems) {
         const savedCart = localStorage.getItem(data.email + '_cart');
