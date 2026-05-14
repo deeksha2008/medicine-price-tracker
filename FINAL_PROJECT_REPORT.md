@@ -38,12 +38,14 @@ graph TD
         GitHub[GitHub Repo] -->|Webhook| Jenkins[Jenkins CI/CD]
         Jenkins -->|Retrain| MLOps[ML Retraining Loop]
         Jenkins -->|Build| Docker[Docker Registry]
+        Vault[HashiCorp Vault] -.->|Secret Management| Jenkins
     end
     
     subgraph Infrastructure
         Docker -->|Deploy| K8s[Kubernetes Cluster]
         K8s -->|Scaling| HPA[Horizontal Pod Autoscaler]
         K8s -->|Logs| ELK[ELK Stack]
+        Vault -.->|Runtime Secrets| Backend
     end
 ```
 
@@ -52,6 +54,7 @@ graph TD
 - **API Gateway Layer**: FastAPI backend managing business logic and ML service calls.
 - **ML Engine**: Independent modules for predictive modeling and data analysis.
 - **Automation Layer**: Jenkins orchestrating the lifecycle from code commit to deployment.
+- **Security Layer**: HashiCorp Vault managing credentials and sensitive API keys.
 - **Infrastructure Layer**: Scalable containerized environment managed by Kubernetes.
 
 ---
@@ -112,39 +115,23 @@ pipeline {
 
 ---
 
-## 6. Containerization & Orchestration
+## 6. Project Results & Demonstration
 
-### 6.1 Docker Orchestration (docker-compose.yml)
-```yaml
-services:
-  backend:
-    build: ./backend
-    ports: ["8000:8000"]
-  frontend:
-    build: ./frontend
-    ports: ["3000:80"]
-  elasticsearch:
-    image: elasticsearch:7.17.0
-```
+### 6.1 Application Functionality Achieved
+| Feature | Status | Notes |
+| :--- | :--- | :--- |
+| User Authentication | Complete | JWT + bcrypt + Vault secret |
+| Price Comparison Table | Complete | Live data, 4 platforms unified view |
+| ML Price Insights | Complete | Generic alternative + avg price |
+| AI Insights Dashboard | Complete | 7-day multi-platform forecast chart |
+| Shopping Cart | Complete | Persistent via localStorage |
+| PDF Report Export | Complete | Server-side PDF generation (FastAPI + ReportLab) |
+| CI/CD Pipeline | Complete | Fully automated Jenkins orchestration |
+| ELK Stack Logging | Complete | Structured JSON logs for observability |
 
-### 6.2 Kubernetes Scaling (HPA)
-```yaml
-# k8s/hpa.yaml
-apiVersion: autoscaling/v2
-kind: HorizontalPodAutoscaler
-metadata:
-  name: backend-hpa
-spec:
-  minReplicas: 2
-  maxReplicas: 10
-  metrics:
-  - type: Resource
-    resource:
-      name: cpu
-      target:
-        type: Utilization
-        averageUtilization: 50
-```
+### 6.2 ML Prediction Performance
+- **Price Trend Prediction**: Successfully visualizes 7-day volatility for all 4 pharmacies.
+- **Generic Suggestion Accuracy**: Correctly identifies paracetamol alternatives with ~60% cost reduction.
 
 ---
 
@@ -160,4 +147,4 @@ Centralized logging is implemented using the **ELK Stack**:
 This project demonstrates a complete, real-world DevOps framework. By integrating MLOps with modern software production engineering tools like Jenkins, Docker, and Kubernetes, the Medicine Price Tracker achieves a high level of automation, reliability, and professional standard.
 
 ---
-*Report upgraded on: 2026-05-13*
+*Report upgraded on: 2026-05-14*
