@@ -11,7 +11,7 @@ The Medicine Price Tracker is a comprehensive DevOps-integrated platform designe
 ---
 
 ## 2. Technology Stack
-The project leverages a modern, industrial-grade tech stack:
+The  project leverages a modern, industrial-grade tech stack:
 - **Frontend**: React.js (Hooks, Context API, Vanilla CSS)
 - **Backend**: FastAPI (Python), Uvicorn
 - **Machine Learning**: Pandas, Scikit-learn, Numpy
